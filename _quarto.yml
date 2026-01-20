@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Your Name - MUSA 5080 Portfolio"
+  title: "Zhanchao Yang - MUSA 5080 Portfolio"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - text: Labs
         menu:
-          - href: labs/lab_0/
+          - href: lab/lab_0/index.qmd
             text: "Lab 0: dplyr Basics"
 format:
   html:
